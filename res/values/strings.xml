@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ariary</string>
+    <string name="not_connected_text">You\'re not connected.</string>
+    <string name="error_text">An Error occurred.</string>
+    <string name="progress_bar_dialog_title">Sync</string>
+    <string name="progress_bar_dialog_message">Synchronization</string>
+    <string name="retry_button_text">Retry</string>
+</resources>

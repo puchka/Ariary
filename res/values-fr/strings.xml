@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="not_connected_text">Vous n\'êtes pas connecté.</string>
+    <string name="error_text">Une erreur est survenue.</string>
+    <string name="progress_bar_dialog_title">Sync</string>
+    <string name="progress_bar_dialog_message">Synchronisation</string>
+    <string name="retry_button_text">Réessayer</string>
+</resources>
